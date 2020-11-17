@@ -5,8 +5,6 @@ import NotFoud from './NotFoud'
 
 import React, { Component } from 'react'
 import Product from './Product'
-import Iphone from './Iphone'
-
  const routers=[
     {
         path:'/',
