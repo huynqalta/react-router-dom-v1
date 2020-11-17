@@ -1,0 +1,18 @@
+*React - Router
+-các thành phần tìm hiểu:
+    Tạo ứng dụng SPA chuyển trang->không load lại trang(LINK & NavLink)
+    Tìm hiểu activeStyle,activeClassName:thay đổi định dạng đối với router hiện hành
+    không tìm thấy router
+    Lấy tham số URL : đối tượng match
+    Prompt
+    Rediret
+
+Sử dụng
+-2 vấn đề quan tâm
+    nơi chứa menu
+    vùng thay đổi khi chọn router tương ứng
+-Sử dụng đối tượng Link hoặc NavLink
+
+
+-đối tượng Prompt
+    +Xác nhận trước khi chuyển trang. 
